@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Zoomout"
+        android:id="@+id/zoom_out"/>
+    <item android:title="depth_page"
+        android:id="@+id/depth_page"/>
+    <item android:title="rotation_page"
+        android:id="@+id/rotation_page"/>
+
+</menu>
